@@ -1,0 +1,25 @@
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Ntreev Soft Co., Ltd.','Ntreev Soft Co., Ltd.@mail.com','1531413','2454825','https://www.Ntreev Soft Co., Ltd..com','proveedor','Ntreev Soft Co., Ltd.');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Tomkorp Computer Solutions Inc.','Tomkorp Computer Solutions Inc.@mail.com','9244353','2102792','https://www.Tomkorp Computer Solutions Inc..com','proveedor','Tomkorp Computer Solutions Inc.');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Source Studio Ltd.','Source Studio Ltd.@mail.com','7008635','1380285','https://www.Source Studio Ltd..com','proveedor','Source Studio Ltd.');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('JoWooD Entertainment., DreamCatcher','JoWooD Entertainment, DreamCatcher@mail.com','5427820','6378869','https://www.JoWooD Entertainment, DreamCatcher.com','proveedor','JoWooD Entertainment, DreamCatcher');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('City Interactive S.A.','City Interactive S.A.@mail.com','1090152','9853738','https://www.City Interactive S.A..com','proveedor','City Interactive S.A.');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Two Tribes B.V.','Two Tribes B.V.@mail.com','8643383','8359392','https://www.Two Tribes B.V..com','proveedor','Two Tribes B.V.');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('PopCap Games, Inc.','PopCap Games, Inc.@mail.com','1635070','4672326','https://www.PopCap Games, Inc..com','proveedor','PopCap Games, Inc.');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('PopCap Games','PopCap Games@mail.com','9835343','5936418','https://www.PopCap Games.com','proveedor','PopCap Games');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('','@mail.com','9428564','5072509','https://www..com','proveedor','');
+
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Asoka','Asoka@mail.com','2100234','5526357','https://www.Asoka.com','proveedor','Asoka');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Transcof','Transcof@mail.com','4105195','9278933','https://www.Transcof.com','proveedor','Transcof');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Greenlam','Greenlam@mail.com','8005431','9697854','https://www.Greenlam.com','proveedor','Greenlam');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Alpha','Alpha@mail.com','6101770','2575944','https://www.Alpha.com','proveedor','Alpha');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Ventosanzap','Ventosanzap@mail.com','6919819','4026644','https://www.Ventosanzap.com','proveedor','Ventosanzap');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Temp','Temp@mail.com','1115370','5916959','https://www.Temp.com','proveedor','Temp');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Domainer','Domainer@mail.com','5853248','1382612','https://www.Domainer.com','proveedor','Domainer');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Namfix','Namfix@mail.com','5156469','5736215','https://www.Namfix.com','proveedor','Namfix');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Toughjoyfax','Toughjoyfax@mail.com','8749828','3011246','https://www.Toughjoyfax.com','proveedor','Toughjoyfax');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Aerified','Aerified@mail.com','5950732','5995273','https://www.Aerified.com','proveedor','Aerified');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Y_find','Y_find@mail.com','1167475','5303785','https://www.Y-find.com','proveedor','Y_find');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Subin','Subin@mail.com','7030101','8613914','https://www.Subin.com','proveedor','Subin');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Prodder','Prodder@mail.com','9657677','6656120','https://www.Prodder.com','proveedor','Prodder');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('It','It@mail.com','8556396','8292394','https://www.It.com','proveedor','It');
+INSERT INTO Socios(Nombre,Email,Telefono,Cuenta,Direccion,Tipo,Contraseña) VALUES('Daltfresh','Daltfresh@mail.com','4557406','3544107','https://www.Daltfresh.com','proveedor','Daltfresh');

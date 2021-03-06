@@ -1,0 +1,10 @@
+INSERT INTO Cupos(Nombre) VALUES('Aventura');
+INSERT INTO Cupos(Nombre) VALUES('Disparos');
+INSERT INTO Cupos(Nombre) VALUES('Estrategia');
+INSERT INTO Cupos(Nombre) VALUES('Lucha');
+INSERT INTO Cupos(Nombre) VALUES('Survival horror');
+INSERT INTO Cupos(Nombre) VALUES('Plataformas');
+INSERT INTO Cupos(Nombre) VALUES('Rol');
+INSERT INTO Cupos(Nombre) VALUES('Simulación');
+INSERT INTO Cupos(Nombre) VALUES('Carreras');
+INSERT INTO Cupos(Nombre) VALUES('No lineal');
